@@ -469,4 +469,37 @@ const products = [
     priceCents: 2400,
     keywords: ["sweaters", "hoodies", "apparel", "mens"],
   },
+  {
+    id: "marvel-1",
+    image: "images/products/antman-helmet.jpeg",
+    name: "Marvel Legends Ant-Man Helmet",
+    rating: {
+      stars: 4.5,
+      count: 17,
+    },
+    priceCents: 10500,
+    keywords: ["helmet", "avengers", "ant-man", "superhero"],
+  },
+  {
+    id: "marvel-2",
+    image: "images/products/black-panther-helmet.jpeg",
+    name: "Marvel Legends Black Panther Helmet",
+    rating: {
+      stars: 5,
+      count: 23,
+    },
+    priceCents: 10500,
+    keywords: ["helmet", "avengers", "black panther", "superhero"],
+  },
+  {
+    id: "marvel-3",
+    image: "images/products/infinity-guantlet.jpeg",
+    name: "Marvel Legends Iron Man Infinity Guantlet",
+    rating: {
+      stars: 4.5,
+      count: 26,
+    },
+    priceCents: 10500,
+    keywords: ["glove", "avengers", "iron man", "suuperhero", "infinity"],
+  },
 ];
